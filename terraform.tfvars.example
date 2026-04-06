@@ -1,5 +1,0 @@
-region = "us-east-1"
-instance_type = "t3.micro"
-db_instance_type = "t3.small"
-key_name = "example-key"
-my_ip = "0.0.0.0/0"
